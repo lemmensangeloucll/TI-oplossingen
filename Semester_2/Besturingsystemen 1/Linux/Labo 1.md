@@ -16,7 +16,9 @@ Om zo optimaal  mogelijk  gebruik  te  maken van virtuele machines op je host (c
 
 ## Software
 Je kan gebruik maken van VMWare of VirtualBox.
->VM
+>VMWare kan je terug hier terugvinden.
+>Volg Education -> CourseInfo -> Mana&Tech -> Toeg. Info -> Comp.Netw1 ->VMware
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjI3NDk2OF19
+eyJoaXN0b3J5IjpbNDA1OTcyOTQyXX0=
 -->
