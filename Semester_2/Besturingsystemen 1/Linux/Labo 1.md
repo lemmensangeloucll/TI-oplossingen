@@ -67,6 +67,9 @@ Klik op `Enter`.
 Nano afsluiten: `CTRL + x`.
 Nano vraagt of je het bestand wenst op te slaan.
 Typ `y` of `n`.
+## Super user
+> in Linux is dit root geen administrator
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTg5NTQ3Nl19
+eyJoaXN0b3J5IjpbMTAzMTI1NzBdfQ==
 -->
