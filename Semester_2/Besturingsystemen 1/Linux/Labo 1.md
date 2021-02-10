@@ -40,7 +40,33 @@ are used  to  modify  the  core  behaviour of the  command
 **ARGUMENTS**
 are used  to  provide  additional information such as a file name or a user name to  the  command
 
-## 
+## Commando's
+Probeer volgende commando's eens uit in de terminal:
+- `cal 1 2015`
+- `cal 4 2016`
+- `cal 1 1`
+- `history`
+-`pwd`
+
+•cd
+
+•ls
+
+•cp
+
+•touch
+
+•rm
+
+•rmdir
+
+•cat
+
+•grep
+
+•find
+
+•tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzk4MjIyMF19
+eyJoaXN0b3J5IjpbMTA3MTA3ODI0Ml19
 -->
