@@ -46,27 +46,19 @@ Probeer volgende commando's eens uit in de terminal:
 - `cal 4 2016`
 - `cal 1 1`
 - `history`
--`pwd`
+- `pwd`
+- `cd`
+- `ls`
+- `cp`
+- `touch`
+- `rm`
+- `rmdir`
+- `cat`
+- `grep`
+- `find`
+- `tree`
+> Bekijk zeker ook de cheat sheets die Rudi geeft.
 
-•cd
-
-•ls
-
-•cp
-
-•touch
-
-•rm
-
-•rmdir
-
-•cat
-
-•grep
-
-•find
-
-•tree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTA3ODI0Ml19
+eyJoaXN0b3J5IjpbLTE4NTA4ODE2MjldfQ==
 -->
