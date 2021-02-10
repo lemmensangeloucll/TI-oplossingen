@@ -16,9 +16,11 @@ Om zo optimaal  mogelijk  gebruik  te  maken van virtuele machines op je host (c
 
 ## Software
 Je kan gebruik maken van VMWare of VirtualBox.
->VMWare kan je terug hier terugvinden.
+>VMWare kan je terug [hier](https://webfiles.ucll.be/)  terugvinden.
 >Volg Education -> CourseInfo -> Mana&Tech -> Toeg. Info -> Comp.Netw1 ->VMware
 
+### Linux ISO
+Je kan 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1OTcyOTQyXX0=
+eyJoaXN0b3J5IjpbLTkyMTUxODA4XX0=
 -->
