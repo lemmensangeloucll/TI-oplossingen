@@ -1,7 +1,7 @@
 # Besturingssystemen 1 (MBI10a) - Linux
 Dit kan worden gebruikt voor Linux van besturingssystemen.
 ## README
-Deze documentatie is gebaseerd op het labo dat je [hier](https://github.com/swenr/operating-systems) kan terugvinden. Sommige teksten zijn gekopieerd. Er kunnen geen rechten worden ontleend of aansprakelijkheid worden aanvaard.
+Deze documentatie is gebaseerd op het labo dat je [hier](https://github.com/swenr/operating-systems/tree/master/1_Linux) kan terugvinden. Sommige teksten zijn gekopieerd. Er kunnen geen rechten worden ontleend of aansprakelijkheid worden aanvaard.
 
 ## Virtualisatie
 Door middel van virtualisatiesoftware  zoals VMware, kunnen diverse besturingssystemen (zoals Linux, FreeBSD, Windows, ... ) en  applicaties in een  virtuele machine gedraaid  worden.
@@ -91,5 +91,5 @@ Voer volgende opdrachten uit om eens te proberen:
 ### Over the wire
 Probeer tot level 6 te raken op volgende website: http://overthewire.org/wargames/bandit/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODg4MDk5OV19
+eyJoaXN0b3J5IjpbNzIxODQxODU4XX0=
 -->
