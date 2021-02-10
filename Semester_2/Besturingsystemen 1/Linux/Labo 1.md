@@ -20,7 +20,9 @@ Je kan gebruik maken van VMWare of VirtualBox.
 >Volg Education -> CourseInfo -> Mana&Tech -> Toeg. Info -> Comp.Netw1 ->VMware
 
 ### Linux ISO
-Je kan 
+Je kan de Debian ISO [hier](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/) downloaden.
+Kies voor het bestand dat eindigt op `-amd64-netinst.iso`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTUxODA4XX0=
+eyJoaXN0b3J5IjpbMTg3ODUzMDI5NV19
 -->
