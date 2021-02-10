@@ -60,6 +60,7 @@ Probeer volgende commando's eens uit in de terminal:
 > Bekijk zeker ook de cheat sheets die Rudi geeft.
 ## NANO
 Nano is een manier om files aan te passen in de shell.
+### Optie's in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg2MDIyNzVdfQ==
+eyJoaXN0b3J5IjpbLTc1MTMwOTIzMl19
 -->
