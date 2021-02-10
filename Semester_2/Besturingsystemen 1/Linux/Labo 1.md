@@ -64,7 +64,9 @@ Nano is een manier om files aan te passen in de shell.
 Bestand opslaan in nano:  `CTRL + o`.
 Vul de gewenste bestandsnaam in.
 Klik op `Enter`.
-Nano afsluiten: `
+Nano afsluiten: `CTRL + x`.
+Nano vraagt of je het bestand wenst op te slaan.
+Typ `y` of `n`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODczNjc3OF19
+eyJoaXN0b3J5IjpbLTY2OTg5NTQ3Nl19
 -->
