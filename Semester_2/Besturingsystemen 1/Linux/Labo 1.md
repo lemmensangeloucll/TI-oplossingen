@@ -58,7 +58,8 @@ Probeer volgende commando's eens uit in de terminal:
 - `find`
 - `tree`
 > Bekijk zeker ook de cheat sheets die Rudi geeft.
-
+## NANO
+Nano is een manier om
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA4ODE2MjldfQ==
+eyJoaXN0b3J5IjpbLTEyOTYzOTgzN119
 -->
