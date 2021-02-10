@@ -23,6 +23,15 @@ Je kan gebruik maken van VMWare of VirtualBox.
 Je kan de Debian ISO [hier](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/) downloaden.
 Kies voor het bestand dat eindigt op `-amd64-netinst.iso`
 
+## SHELL
+A shell is the  interpreter  that  translates  commands  entered  by a user into actions to  be  perrformed  by  the operating system. Commands are entered at the prompt
+>user@system:/home/user>
+
+shell => bash, tcsh, zsh, …
+
+Een CLI is uitdagend als je hier nog geen ervaring mee hebt.
+
+> commando’s en hun opties moet je (in het begin) van buiten leren!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODUzMDI5NV19
+eyJoaXN0b3J5IjpbLTE5ODcwNTIzNzFdfQ==
 -->
