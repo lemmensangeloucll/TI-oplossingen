@@ -34,7 +34,13 @@ Een CLI is uitdagend als je hier nog geen ervaring mee hebt.
  **Commando’s en hun opties moet je (in het begin) van buiten leren!**
  
 ## Syntax Shel
+`[root@linux ~]# command [options] [arguments]`
+**OPTIONS**
+are used  to  modify  the  core  behaviour of the  command
+**ARGUMENTS**
+are used  to  provide  additional information such as a file name or a user name to  the  command
 
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMxMjE4NzBdfQ==
+eyJoaXN0b3J5IjpbLTIxNzk4MjIyMF19
 -->
