@@ -87,6 +87,9 @@ Voer volgende opdrachten uit om eens te proberen:
 - Verplaats fun terug naar de current working directory
 - Verplaats dir1 naar dir2
 - Hernoem dir2 naar kroepoek
+
+### Over the wire
+Probeer tot level 6 te raken op volgende website: http://overthewire.org/wargames/bandit/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQzNDI4OTIsMTAzMTI1NzBdfQ==
+eyJoaXN0b3J5IjpbMTE2ODg4MDk5OSwxMDMxMjU3MF19
 -->
