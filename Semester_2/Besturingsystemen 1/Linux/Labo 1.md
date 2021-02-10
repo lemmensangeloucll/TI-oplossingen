@@ -75,7 +75,18 @@ Linux is een multi user OS.
 Er is 1 `super user` die alles mag en kan. De `root`.
 Je kan root user worden door `su - root` uit te voeren in de shell hierna wordt je gevraagd naar het root wachtwoord en ben je root user.
 
-
+## Oefenen
+Voer volgende opdrachten uit om eens te proberen:
+- Maak een folder playground aan in /tmp en ga in die folder staan
+- Maak dir1 en dir2 als folder aan
+- Kopieer /etc/passwd in folder playground
+- Laat de inhoud van de folder zien
+- Verander de bestandnaam passwd in fun
+- Verplaats fun naar dir1
+- Verplaats fun naar dir2 (blijf in folder playground)
+- Verplaats fun terug naar de current working directory
+- Verplaats dir1 naar dir2
+- Hernoem dir2 naar kroepoek
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTgxMDkxNiwxMDMxMjU3MF19
+eyJoaXN0b3J5IjpbLTE5MzQzNDI4OTIsMTAzMTI1NzBdfQ==
 -->
