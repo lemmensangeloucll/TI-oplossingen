@@ -12,6 +12,7 @@
 * [Computernetwerken 2](https://github.com/martijnmeeldijk/TI-oplossingen/blob/master/Semester_2)
   * [Oefeningen](https://github.com/martijnmeeldijk/TI-oplossingen/blob/master/Semester_2/cnw2.pdf)
   * [Oplossingen monitoraat 2019](https://github.com/martijnmeeldijk/TI-oplossingen/blob/master/Semester_2/oplossingen%20monitoraat%20cnw2.txt)
+* [Besturingssystemen](https://github.com/martijnmeeldijk/TI-oplossingen/tree/master/Semester_2/Besturingssystemen)
 * [OOP labos](https://github.com/martijnmeeldijk/TI-oplossingen/tree/master/Semester_2/OOP)
 * Dataquerying
   * [SQL Dropbox](https://github.com/arnobarre/Databanken-Dataquerying)
@@ -69,3 +70,6 @@
 * PVM
   * [Cheat Sheet](https://github.com/martijnmeeldijk/TI-oplossingen/blob/master/Semester_4/pvm/oefeningen_cheat_sheet.md)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzgzNzg2Nzc4XX0=
+-->
