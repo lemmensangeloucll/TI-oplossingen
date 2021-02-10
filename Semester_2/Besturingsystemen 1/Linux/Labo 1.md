@@ -60,7 +60,11 @@ Probeer volgende commando's eens uit in de terminal:
 > Bekijk zeker ook de cheat sheets die Rudi geeft.
 ## NANO
 Nano is een manier om files aan te passen in de shell.
-### Optie's in 
+### Optie's in nano
+Bestand opslaan in nano:  `CTRL + o`.
+Vul de gewenste bestandsnaam in.
+Klik op `Enter`.
+Nano afsluiten: `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTMwOTIzMl19
+eyJoaXN0b3J5IjpbLTcxODczNjc3OF19
 -->
