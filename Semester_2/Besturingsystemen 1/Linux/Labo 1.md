@@ -70,6 +70,8 @@ Typ `y` of `n`.
 ## Super user
 > in Linux is dit root geen administrator
 
+Linux is een multi user OS.
+Er is 1 `super user` die alles mag en kan 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTI1NzBdfQ==
+eyJoaXN0b3J5IjpbLTE3MTMzNDk0NzMsMTAzMTI1NzBdfQ==
 -->
