@@ -24,14 +24,17 @@ Je kan de Debian ISO [hier](https://cdimage.debian.org/debian-cd/current/amd64/i
 Kies voor het bestand dat eindigt op `-amd64-netinst.iso`
 
 ## SHELL
-A shell is the  interpreter  that  translates  commands  entered  by a user into actions to  be  perrformed  by  the operating system. Commands are entered at the prompt
+Een shell is de interpreter die commando's vertaalt die door een gebruiker zijn ingevoerd in acties die door het besturingssysteem moeten worden uitgevoerd. Commando's worden bij de prompt ingevoerd.
 >user@system:/home/user>
 
-shell => bash, tcsh, zsh, …
+`shell => bash, tcsh, zsh, ...`
 
 Een CLI is uitdagend als je hier nog geen ervaring mee hebt.
 
-> commando’s en hun opties moet je (in het begin) van buiten leren!
+ **Commando’s en hun opties moet je (in het begin) van buiten leren!**
+ 
+## Syntax Shel
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcwNTIzNzFdfQ==
+eyJoaXN0b3J5IjpbLTE4NzMxMjE4NzBdfQ==
 -->
