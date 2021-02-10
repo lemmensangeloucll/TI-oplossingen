@@ -59,7 +59,7 @@ Probeer volgende commando's eens uit in de terminal:
 - `tree`
 > Bekijk zeker ook de cheat sheets die Rudi geeft.
 ## NANO
-Nano is een manier om
+Nano is een manier om files aan te passen in de shell.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYzOTgzN119
+eyJoaXN0b3J5IjpbLTE1NDg2MDIyNzVdfQ==
 -->
