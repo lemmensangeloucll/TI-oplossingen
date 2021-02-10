@@ -71,8 +71,11 @@ Typ `y` of `n`.
 > in Linux is dit root geen administrator
 
 Linux is een multi user OS.
+
 Er is 1 `super user` die alles mag en kan. De `root`.
-Je kan root user worden door `su - root` uit te voeren in de shell.
+Je kan root user worden door `su - root` uit te voeren in de shell hierna wordt je gevraagd naar het root wachtwoord en ben je root user.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDA4ODQyOCwxMDMxMjU3MF19
+eyJoaXN0b3J5IjpbMTkzMTgxMDkxNiwxMDMxMjU3MF19
 -->
